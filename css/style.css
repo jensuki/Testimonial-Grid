@@ -712,6 +712,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     grid-column: span 2 / span 2;
   }
 
+  .md\:row-span-2 {
+    grid-row: span 2 / span 2;
+  }
+
   .md\:block {
     display: block;
   }
